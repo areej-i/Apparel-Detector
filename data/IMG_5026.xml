@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_5026.jpg</filename>
+	<path>/Users/areej/Desktop/apparel/images/IMG_5026.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1560</width>
+		<height>2392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>147</ymin>
+			<xmax>1432</xmax>
+			<ymax>2252</ymax>
+		</bndbox>
+	</object>
+</annotation>
