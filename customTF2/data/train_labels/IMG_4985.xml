@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pants</folder>
+	<filename>IMG_4985.jpg</filename>
+	<path>/Users/areej/Desktop/apparel/images/pants/IMG_4985.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>806</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pants</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>45</ymin>
+			<xmax>471</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+</annotation>
