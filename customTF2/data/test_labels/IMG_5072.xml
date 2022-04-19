@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_5072.jpg</filename>
+	<path>/Users/areej/Desktop/apparel/images/IMG_5072.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2010</width>
+		<height>2680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>700</ymin>
+			<xmax>1617</xmax>
+			<ymax>1938</ymax>
+		</bndbox>
+	</object>
+</annotation>
